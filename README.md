@@ -94,7 +94,7 @@ La primera versión era una app web; se retiró para pasar a una app nativa en Q
 - Llevar una misma experiencia a tres superficies (servidor, escritorio y móvil) sin duplicar la lógica.
 - Tratar con APIs externas reales: OAuth, límites de tasa, sesiones y reintentos.
 
-Desarrollado con flujos de trabajo asistidos por IA (Claude Code) para arquitectura, revisión de código y pruebas. El diseño, las decisiones y la dirección del proyecto son míos.
+**Desarrollo potenciado con IA:** dirijo agentes de programación (Claude Code) para acelerar la arquitectura, la revisión de código y las pruebas. El diseño, las decisiones técnicas y la dirección del proyecto son míos.
 
 ## Inspiración y créditos
 
