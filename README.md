@@ -104,4 +104,4 @@ White Space es un **proyecto de fans sin fines de lucro**, hecho con cariño por
 
 ---
 
-**José Alejandro Reyes** · [LinkedIn](https://www.linkedin.com/in/jose-reyes-berrocal) · [GitHub](https://github.com/ReyesMirrors)
+**Jose Alejandro Reyes** · [LinkedIn](https://www.linkedin.com/in/jose-reyes-berrocal) · [GitHub](https://github.com/ReyesMirrors)
